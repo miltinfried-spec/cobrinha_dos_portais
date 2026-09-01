@@ -1,0 +1,18 @@
+{
+  "name": "Cobrinha dos Portais",
+  "short_name": "Cobrinha",
+  "description": "Jogo da cobrinha com portais e progressão por níveis!",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e1b4b",
+  "theme_color": "#1e1b4b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
